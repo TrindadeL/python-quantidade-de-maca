@@ -1,0 +1,11 @@
+john = 3
+mary = 5
+adam = 6
+
+print(john, mary, adam)
+
+total_apples = john + mary + adam
+print(total_apples)
+
+media = (john + mary + adam) / 3
+print("A média aritmética entre a quantidade de maçãs é de", media)
